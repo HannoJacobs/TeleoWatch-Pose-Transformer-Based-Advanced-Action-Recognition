@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+.vscode/*
+.venv
+.env
+
+__pycache__
+__pycache__/*
+.pytest_cache
+
+_*
+!__init__.py
+
+# allow some models
+!models/
