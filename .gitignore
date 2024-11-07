@@ -13,3 +13,5 @@ _*
 
 # allow some models
 !models/
+
+src/*
