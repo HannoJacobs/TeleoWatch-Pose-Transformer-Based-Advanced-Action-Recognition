@@ -5,10 +5,3 @@ This paper was presented at [http://ciarp24.org/](http://ciarp24.org/) in Talca,
 
 ![Poster](TeleoWatch_poster.jpg)
 
-## Code demo
-
-Run the code with
-
-```sh
-code code code
-```
