@@ -10,8 +10,3 @@ __pycache__/*
 
 _*
 !__init__.py
-
-# allow some models
-!models/
-
-src/*
